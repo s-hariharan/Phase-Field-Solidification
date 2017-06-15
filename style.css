@@ -1,0 +1,31 @@
+
+body {
+background: linear-gradient(to right, blue, silver);
+}
+#every {
+  position: relative;
+
+  width: 900px;
+  margin: 0 auto;
+}
+#parameters {
+
+  width: 350px;
+  position: relative;
+  left: 520px;
+  bottom: 500px;
+}
+#input{
+
+  width: 350px;
+  position: relative;
+  left: 520px;
+  bottom: 450px;
+}
+#chartContainer {
+  margin: 0 auto;
+  width: 890px;
+  height: 300px;
+  position: relative;
+  bottom: 300px;
+}
